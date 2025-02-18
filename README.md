@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # crud-api-todolist-management
 Created by Ahmad Al Qodri Azizi Dalimunthe
 =======
@@ -65,4 +64,3 @@ Ahmad Al Qodri Azizi Dalimunthe
 ## License
 
 This project is licensed under the MIT License.
->>>>>>> 330cae1 (Crud API with Swagger)
