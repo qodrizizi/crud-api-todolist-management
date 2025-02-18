@@ -1,9 +1,7 @@
-# crud-api-todolist-management
-Created by Ahmad Al Qodri Azizi Dalimunthe
-=======
 # Social Media Todo Management
 
 This is a simple CRUD API for managing social media posts tasks. It is built with Node.js, Express, and MongoDB. The API is documented using Swagger.
+This project is designed to fulfill a technical test for a backend developer internship in octoscript
 
 ## Prerequisites
 
